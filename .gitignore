@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Sanjeev, project relevant files that assist in development, but not necessary for the project itself.
+sanjeev
+
+# Temporarily, until the base is properly built, lets ignore index.html
+index.html
